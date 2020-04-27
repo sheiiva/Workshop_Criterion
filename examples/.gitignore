@@ -61,5 +61,8 @@ vgcore*
 *.gcno
 critests
 
+# TEST
+tests/critests
+
 # BINARY
 binary
